@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-d245507ad6c27f1be673.js",
-      "component---src-pages-index-js-d245507ad6c27f1be673.js.map"
+      "component---src-pages-index-js-bc3a2f2910190c680432.js",
+      "component---src-pages-index-js-bc3a2f2910190c680432.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-402a3a3de220c95bf55b.js",
-      "component---src-layouts-index-js-402a3a3de220c95bf55b.js.map"
+      "component---src-layouts-index-js-94242132592aa72cdf10.js",
+      "component---src-layouts-index-js-94242132592aa72cdf10.js.map"
     ],
     "path---course": [
       "path---course-a86642d5b5b979524ffa.js",
@@ -33,14 +33,14 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-c7737dc6110616b33c9f.js",
+      "app-6a918439a66f64db731a.js",
       "build-js-styles.css",
-      "app-c7737dc6110616b33c9f.js.map",
+      "app-6a918439a66f64db731a.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-course-js": [
-      "component---src-pages-course-js-6753202be270275a15e2.js",
-      "component---src-pages-course-js-6753202be270275a15e2.js.map"
+      "component---src-pages-course-js-ce82aa35c2cbaea2720b.js",
+      "component---src-pages-course-js-ce82aa35c2cbaea2720b.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
